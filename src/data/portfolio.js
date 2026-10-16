@@ -148,6 +148,7 @@ export const skillGroups = [
       { name: "VS Code", icon: "VSCode" },
       { name: "Figma", icon: "Figma" },
       { name: "Postman", icon: "Postman" },
+      { name: "Vercel", icon: "Vercel" },
     ],
   },
 ];

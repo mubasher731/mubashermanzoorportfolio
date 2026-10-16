@@ -47,6 +47,7 @@ import {
   SiFigma,
   SiPostman,
   SiDocker,
+  SiVercel,
 } from "react-icons/si";
 import { FaJava } from "react-icons/fa";
 import { VscVscode } from "react-icons/vsc";
@@ -97,6 +98,7 @@ export const techIcons = {
   Figma: SiFigma,
   Postman: SiPostman,
   Docker: SiDocker,
+  Vercel: SiVercel,
 };
 
 /** name -> brand colour (used by the skill tiles) */
@@ -144,4 +146,5 @@ export const techColors = {
   Figma: "#F24E1E",
   Postman: "#FF6C37",
   Docker: "#2496ED",
+  Vercel: "#F5F5F7",
 };
