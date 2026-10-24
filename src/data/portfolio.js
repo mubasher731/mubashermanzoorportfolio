@@ -256,6 +256,25 @@ export const experience = [
 export const projects = [
   {
     id: 1,
+    title: "Fountain House",
+    subtitle: "Healthcare Communication Platform",
+    description:
+      "A role-based mobile platform connecting Patients and Doctors, backed by a scalable Node.js/Express + PostgreSQL backend.\n\n• Appointment booking and consultation management.\n• Real-time messaging and call history via Socket.IO.\n• High-quality WebRTC audio/video calls.\n• Secure JWT authentication and push notifications.",
+    tech: [
+      "React Native",
+      "TypeScript",
+      "Node.js",
+      "Express.js",
+      "PostgreSQL",
+      "Socket.IO",
+      "WebRTC",
+      "JWT",
+    ],
+    category: "Android & iOS",
+    icon: "ReactNative",
+  },
+  {
+    id: 2,
     title: "ConnectApp ",
     subtitle: "Healthcare Communication Platform",
     description:
@@ -274,7 +293,7 @@ export const projects = [
     icon: "ReactNative",
   },
   {
-    id: 2,
+    id: 3,
     title: "Dentment ",
     subtitle: "LinkedIn Clone App",
     description:
@@ -291,7 +310,7 @@ export const projects = [
     icon: "ReactNative",
   },
   {
-    id: 3,
+    id: 4,
     title: "LCI-LMS Portal",
     subtitle: "UI/UX Design + Mobile App",
     description:
@@ -301,7 +320,7 @@ export const projects = [
     icon: "Expo",
   },
   {
-    id: 4,
+    id: 5,
     title: "MarketPlacer App",
     subtitle: "Clone App like OLX, PakWheels",
     description:
@@ -311,7 +330,7 @@ export const projects = [
     icon: "ReactNative",
   },
   {
-    id: 5,
+    id: 6,
     title: "Diabetic Foot Ulcer Prediction & Recommendation Tool",
     subtitle: "AI Based Final Year Project",
     description:
