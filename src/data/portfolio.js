@@ -259,7 +259,7 @@ export const projects = [
     title: "Fountain House",
     subtitle: "Healthcare Communication Platform",
     description:
-      "A role-based mobile platform connecting Patients and Doctors, backed by a scalable Node.js/Express + PostgreSQL backend. Appointment booking and consultation management. Real-time messaging and call history via Socket.IO. High-quality WebRTC audio/video calls. Secure JWT authentication and push notifications.",
+      "A role-based mobile platform connecting Patients and Doctors, backed by a scalable Node.js/Express + PostgreSQL backend. Appointment booking and consultation management. Real-time messaging and call history via Socket.IO. High-quality WebRTC, audio/video calls. Secure JWT authentication and push notifications.",
     tech: [
       "React Native",
       "TypeScript",
